@@ -1,6 +1,6 @@
 # Hey, I'm Chester! 👋
 
-Welcome to my humble corner of GitHub. I've been an BIM Specialist and Architecture Technician since 2016, designing buildings, spaces, and probably more Excel sheets than I’d like to admit. But plot twist! I've decided to leave the world of blueprints and bricks behind to embrace the wonderful chaos of programming. 🎉
+Welcome to my humble corner of GitHub. I've been a BIM Specialist / Architecture Technician since 2016, designing buildings, spaces, and probably more Excel sheets than I’d like to admit. But plot twist! I've decided to leave the world of blueprints and bricks behind to embrace the wonderful chaos of programming. 🎉
 
 ### 🚀 The Great Career Pivot:
 After years of making sure walls stay upright, I realized something—I wanted to break stuff too (digitally, of course). So now, I’m diving headfirst into **The Odin Project**, where I’m learning to code with the ultimate goal of becoming a *Ruby on Rails* developer. Because, honestly, why not swap the headaches of zoning regulations for the joys of debugging?
